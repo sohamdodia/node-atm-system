@@ -11,7 +11,8 @@ ATM withdrawal simulation
 ### Getting Started
 
 1. `npm install`
-2. Open `http://localhost:3000`
+2. `node server/server.js`
+3. Open `http://localhost:3000`
 
 ### Note
 - Account information can be found in accounts.js file.
