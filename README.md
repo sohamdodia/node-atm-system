@@ -11,7 +11,7 @@ ATM withdrawal simulation
 ### Getting Started
 
 1. `npm install`
-2. `node server/server.js`
+2. `node server.js`
 3. Open `http://localhost:3000`
 
 ### Note
